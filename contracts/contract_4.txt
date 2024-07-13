@@ -1,0 +1,10 @@
+Parties: This agreement is made between Crawford PLC (hereinafter referred to as 'Party A') and Williams, Walker and Peck (hereinafter referred to as 'Party B').
+
+Agreement Terms: The agreement will commence on 2024-01-06 and will continue until 2024-04-20. Party A and Party B agree to the terms and conditions outlined in this document.
+
+Confidentiality Clause: Both parties agree to keep confidential any proprietary information disclosed during the term of this agreement. This clause shall remain in effect for a period of 5 years following the termination of this agreement.
+
+Termination Conditions: This agreement may be terminated by either party upon 45 days written notice to the other party.
+
+Liability Statement: Neither party shall be liable for any indirect, incidental, or consequential damages arising out of or in connection with this agreement.
+
