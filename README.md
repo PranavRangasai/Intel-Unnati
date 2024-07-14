@@ -13,7 +13,7 @@ This project consists of a Flask backend and a React frontend.
 
 ### Clone the repository
 ```bash
-git clone <repository-url>
+git clone (https://github.com/PranavRangasai/Intel-Unnati.git)```
 cd backend
 python -m venv venv
 **Sure! Here's the complete content for the README.md file that includes instructions for both the frontend (React) and backend (Flask).
