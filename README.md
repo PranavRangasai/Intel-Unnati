@@ -1,9 +1,11 @@
 # Intel-Unnati
+
 # Full Stack Project
 
 This project consists of a Flask backend and a React frontend.
 
 ## Prerequisites
+
 - Python 3.x (for the backend)
 - pip (Python package installer)
 - Node.js (for the frontend)
@@ -12,84 +14,71 @@ This project consists of a Flask backend and a React frontend.
 ## Installation
 
 ### Clone the repository
+
 ```bash
-git clone (https://github.com/PranavRangasai/Intel-Unnati.git)```
-cd backend
-python -m venv venv
-**Sure! Here's the complete content for the README.md file that includes instructions for both the frontend (React) and backend (Flask).
+git clone https://github.com/PranavRangasai/Intel-Unnati.git
+```
 
-markdown
+### Backend (Flask)
 
-# Full Stack Project
-
-This project consists of a Flask backend and a React frontend.
-
-## Prerequisites
-- Python 3.x (for the backend)
-- pip (Python package installer)
-- Node.js (for the frontend)
-- npm or yarn (Node package managers)
-
-## Installation
-
-### Clone the repository
-```bash
-git clone <repository-url>
-
-Backend (Flask)
 Navigate to the backend directory
 
-bash
-
+```bash
 cd backend
+```
 
 Create a virtual environment
 
-bash
-
+```bash
 python -m venv venv
+```
 
 Activate the virtual environment
 
-    On Windows:
+On Windows:
 
-    bash
-
+```bash
 venv\Scripts\activate
+```
 
 On macOS/Linux:
 
-bash
-
-    source venv/bin/activate
+```bash
+source venv/bin/activate
+```
 
 Install dependencies
 
-bash
+```bash
+pip install -r requirements.txt
+```
 
-pip install -r requirements.txt**
+Run the backend server
 
+```bash
 python app.py
+```
 
-Frontend (React)
+### Frontend (React)
+
 Navigate to the frontend directory
 
-bash
-
+```bash
 cd ../frontend
+```
 
 Install dependencies
 
-bash
-
+```bash
 npm install
 # or
 yarn install
+```
 
 Running the Frontend
 
-bash
-
+```bash
 npm start
 # or
 yarn start
+```
